@@ -2,5 +2,7 @@
 "org" = "./Regulations.md"
 "extra" = "./Extra/*"
 "extra/national" = "./Extra/National.md"
-"extra/antitrust" = "./Extra/Antitrust.md"
+"extra/antitrust" = "./Extra/Business.md"
+"extra/business" = "./Extra/Business.md"
 "extra/brook" = "./Extra/Brook.md"
+"extra/supplements" = "./Extra/Supplements/*"
