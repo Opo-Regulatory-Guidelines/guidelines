@@ -4,12 +4,14 @@ Opo Regulatory Guidelines, or ORG, is a group of legal documents for wide usecas
 ORG is structured fairly well to make it easy to browse and edit.
 - /
   - Extra/
-    - Antitrust
+    - Business
     - Brook
     - National
+    - Supplements/
 - Regulations.md
 
 There is rarely a reason for a new Extra to be created, but do so if you may. Only wide-scoped things should go into the Regulations document.
+Supplements includes smaller, unrelated or supporting documents. Anyone can add a supplement, and PRs adding supplements will be accepted faster than extras. 
 ## Introduction to Legaldoc
 Legaldoc, shortened as ldoc, is a system used by ORG to resolve and organize dependencies of a document. As stupid as it sounds, it is helpful in many situations.
 
